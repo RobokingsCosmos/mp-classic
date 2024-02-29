@@ -1,2 +1,2 @@
 # MP-Classic
-Works with the 2024 Warzone 2100
+Needs to be tested with the master build of Warzone 2100
